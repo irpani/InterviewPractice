@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ListPractice_1 {
+public class Iterator_Practice {
 
 	public static void main(String[] args) {
 
